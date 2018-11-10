@@ -6,7 +6,11 @@ h4 {
     background-color: #e9ecef;
 }
 
-#submit-btn {
+#submit-btn-yelp {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#yelp-make-decision-btn {
+    margin-bottom: 20px;
 }
